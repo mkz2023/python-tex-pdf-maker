@@ -1,0 +1,7 @@
+General Idea
+
+This little tool hace a simple repository of pdf templates on tex code
+next user can to generate a pdf document with the original tex compiles
+so you have a very nice and lightweiht document.
+in the future this can to be used on a djando proyect to generate a very
+nice reports in the web page
